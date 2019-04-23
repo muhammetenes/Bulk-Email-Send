@@ -5,5 +5,5 @@ Multi-mail sending application that you can assign different variables to every 
 # Prerequisites
 
 ```
-pip install -r PyQt == 5.9.1
+pip install PyQt == 5.9.1
 ```
